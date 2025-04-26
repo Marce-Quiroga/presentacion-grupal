@@ -1,10 +1,15 @@
 ## Programación 3   -   Trabajo Práctico 2
 
 •   Integrantes del grupo:
+
 👤   Amoedo Pablo        |   61719
+
 👤   Brandan Cesar       |   62138
+
 👤   Carrizo Mauro       |   61565
+
 👤   Martinez Ismael     |   61350
+
 👤   Quiroga Marcela     |   62175
 
 ## Para iniciar el pryoecto:

@@ -16,7 +16,7 @@
 
 1️⃣   Ejecutar por primera y única vez `npm install`.
 
-ℹ     Después de ejecutar `npm install`, quizás sea necesario ejectuar `npm audit fix` para resolver posibles problemas de dependencias.
+⚠️   Después de ejecutar `npm install`, quizás sea necesario ejectuar `npm audit fix` para resolver posibles problemas de dependencias.
 
 2️⃣   Ejecutar `npm start` en la carpeta del proyecto para iniciarlo. Se abrirá una nueva pestaña en el navegador web para poder ver e interactuar con el proyecto.
 
